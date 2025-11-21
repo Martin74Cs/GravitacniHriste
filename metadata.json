@@ -1,0 +1,5 @@
+{
+  "name": "Gravitational Playground",
+  "description": "An interactive simulation where users place three points, and then watch them orbit each other under mutual gravitational influence.",
+  "requestFramePermissions": []
+}
